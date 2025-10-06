@@ -1,1 +1,3 @@
 Usuario=vagrant
+Comentario=,,,
+Home=/home/vagrant
