@@ -1,2 +1,3 @@
-# TP_AySO
-TP1 ARQ Y SO 2025
+Alumno: Lautaro Paiva
+Division: 115
+Turno: Mañana
